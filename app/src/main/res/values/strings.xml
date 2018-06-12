@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="threePt_button">+3 POINTS</string>
+    <string name="twoPt_button">+2 POINTS</string>
+    <string name="freeThrow_button">FREE THROW</string>
+
+    <string name="threePt_buttonB">+3 POINTS</string>
+    <string name="twoPt_buttonB">+2 POINTS</string>
+    <string name="freeThrow_buttonB">FREE THROW</string>
+
+
+    <string name="reset_button">RESET</string>
+
+
+
+</resources>
